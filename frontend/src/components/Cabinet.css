@@ -1,0 +1,47 @@
+
+
+.cabinet-container h1 {
+    background: #FFFDD0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.user-card {
+    background: #FFFDD0;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.user-field {
+    margin-bottom: 15px;
+}
+
+.user-field label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.user-field p {
+    margin: 0;
+    color: #666;
+}
+
+
+
+.cabinet-loading,
+.cabinet-error {
+    text-align: center;
+    padding: 40px;
+}
+
+.cabinet-error button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

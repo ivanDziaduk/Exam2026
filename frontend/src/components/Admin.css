@@ -1,0 +1,20 @@
+.admin-container {
+
+    text-align: center;
+}
+
+.admin-container h1 {
+    margin-bottom: 20px;
+}
+
+.admin-info {
+    background: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.admin-info p {
+    margin: 0;
+    color: #666;
+    font-size: 18px;
+}

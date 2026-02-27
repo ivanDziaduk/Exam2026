@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    font-family: 'Arial', sans-serif;
+}
+
+
+.btn-primary {
+    width: 100%;
+    padding: 12px;
+    background: #000000;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
