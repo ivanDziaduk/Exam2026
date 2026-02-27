@@ -10,7 +10,7 @@
   {
     "login": "Admin26",
     "role": "admin",
-    "password": "Demo20. ",
+    "password": "Demo20",
     "fullName": "Администратор Системы Сайта",
     "phone": "+7(900)-999-88-77",
     "email": "admin@example.com"
